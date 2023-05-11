@@ -1,6 +1,6 @@
 # **Time-Complexity-Calculator**
 
-### It is a sinple implementation of a basic time complexity calculator in Python.
+### It is a simple implementation of a basic time complexity calculator in Python.
 The idea is that in a program, the main contribution to the time complexity comes through loops and recursions. Although currently I am not working on recusrsion in this project, it plays a major role in calculating time complexity.
 <br><hr>
 
